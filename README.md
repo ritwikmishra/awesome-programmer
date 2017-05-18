@@ -98,6 +98,10 @@ A list of free-to-listen podcasts
 ## Videos
 
 A list of free-to-watch videos
+- [P vs NP Explained](https://www.youtube.com/watch?v=YX40hbAHx3s)
+### Youtube channels
+- [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+- [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 
 
 ## Courses
